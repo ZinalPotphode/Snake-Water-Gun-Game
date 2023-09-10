@@ -1,0 +1,60 @@
+body{
+  background-image: url(colorful-watercolor-rainbow-background_125540-151\ \(1\).avif);
+  background-size: cover;
+ 
+}
+
+
+.main_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  width: 100%;
+  height: 100%;
+  margin-top: 5em;
+     
+ }
+ .child{
+   background-color: aliceblue;
+   border: 5px solid black;
+   padding: 5em;
+   padding-top: 3em;
+   width: 27em;
+   height: 18em;
+   align-content: center;
+ }
+ p{
+  font-size: 20px;
+  font-weight: bolder;
+
+ }
+ #submit{
+  background-color: greenyellow;
+  margin-top: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 7px;
+  margin-right: 5em;
+  margin-left: 8em;
+ }
+ #reset{
+  background-color: yellow;
+  margin-top: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 7px;
+ }
+ input{
+  width: 28em;
+  height: 24px;
+  margin-top: 4em;
+  margin-bottom: 2em;
+  font-weight: bold;
+ }
+ h1{
+  color: white;
+  font-size: 5em;
+  
+ }
+
+ 
